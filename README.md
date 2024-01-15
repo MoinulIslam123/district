@@ -1,2 +1,2 @@
 # district
-this is where district listed.
+This is where district listed and the people live in there. 
